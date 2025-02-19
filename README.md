@@ -2,7 +2,7 @@
   <b>Samuel Mugane</b>
 </h1>
 
-Hello! I am Samuel Mugane, a software engineer living in Nairobi, Kenya. An ALX Africa Alumnus. I enjoy building web apps using modern tech stacks across Python and Go. I'm also a gaming enthusiast, I like first person shooting games like Crisis, COD and Tom Clancy's ghost recon. We can connect through my socials linked on my profile for project collaborations. 
+Hello! I am Samuel Mugane, a software engineer living in Nairobi, Kenya. An ALX Africa Alumnus. I enjoy building web applications and tooling using modern tech stacks across Python, TypeScript and Go. I'm also a gaming enthusiast, I like first person shooting games like Crisis, COD and Tom Clancy's ghost recon. We can connect through my socials linked on my profile for project collaborations. 
 
 ## Current Stack
 ![c (2)](https://user-images.githubusercontent.com/85606106/216023081-e2193013-03e9-4b6c-a03a-6a34b7548fb3.png)
